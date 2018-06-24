@@ -23,6 +23,9 @@ class option:
         
         
     def option_value():
+        
+        #add calculation of the option value
+        #normal distributon
         #here i will add some code here
         pass
     
