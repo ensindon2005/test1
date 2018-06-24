@@ -13,5 +13,12 @@ import math
 
 class option:
     def __init__(self, S0, t, M, K, r, sigma):
+        
+        self.S0 = S0    #initial underlying price
+        self.t = t      # current date 
+        self.M = M      # Maturity date of option
+        self.K = K      # strike price
+        self.r = r      # risk-less rate
+        self.sigma = sigma  # volatility of underlying
         pass
     
