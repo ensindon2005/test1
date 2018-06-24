@@ -20,5 +20,8 @@ class option:
         self.K = K      # strike price
         self.r = r      # risk-less rate
         self.sigma = sigma  # volatility of underlying
+        
+        
+    def option_value():
         pass
     
